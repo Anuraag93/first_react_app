@@ -1,3 +1,8 @@
+# Information about the project setup:
+
+1. `Components` are for smaller components.
+2. `Containers` can be used for some bigger components and it can be used for some bigger sections of the page.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
